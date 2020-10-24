@@ -1,9 +1,13 @@
 # Ryzen-X470i-Hackintosh-Opencore-EFI
 
 ## 配置如下
+
 CPU   R7 3700X
+
 GPU   5500XT
+
 NIC   DW1560
+
 MB    ASUS ROG STRIX X470I (itx mothermoard)
 
 ## 理论兼容
