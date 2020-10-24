@@ -12,7 +12,7 @@ MB    ASUS ROG STRIX X470I (itx mothermoard)
 
 ## 理论兼容
 
-## 系统： MacOS 10.15 Catalina
+### 系统： MacOS 10.15 Catalina
 
 ### CPU: Ryzen 1000~3000 Treadripper?(maybe)
 
