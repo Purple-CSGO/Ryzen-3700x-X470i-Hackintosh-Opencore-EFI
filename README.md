@@ -1,6 +1,6 @@
 # Ryzen-X470i-Hackintosh-Opencore-EFI
 
-## 配置如下
+## 配置
 
 CPU   R7 3700X
 
@@ -9,6 +9,15 @@ GPU   5500XT
 NIC   DW1560
 
 MB    ASUS ROG STRIX X470I (itx mothermoard)
+
+## 已做修改/优化
+
+- [x] AppleALC 替代 Voodoo万能声卡驱动
+- [x] 显卡伪装W5700X 提高性能
+- [x] 睡眠无法唤醒问题的修复
+- [x] 伪装MacPro机型的每次开启后弹窗
+- [x] 以太网 - Wifi - 蓝牙 - 随航 - 隔空投送
+- [x] AMD CPU 电源管理，再配合 [这个仓库](https://github.com/trulyspinach/SMCAMDProcessor)给的APP，可以调整睿频-监测数据等（当然我是定压定频）
 
 ## 理论兼容
 
