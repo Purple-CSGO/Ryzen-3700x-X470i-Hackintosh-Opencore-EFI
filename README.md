@@ -1,0 +1,1 @@
+# Ryzen-X470i-Hackintosh-Opencore-EFI
